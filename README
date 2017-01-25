@@ -1,20 +1,19 @@
-Chacacl is a scientic oriented advanced calculator.
+Chacacl is a scientific oriented advanced calculator.
 
 The goal is to provide the following features :
 
 
 - simple calculator
 - advanded calculator
-
 - units awareness
 - time operations
-- angulars
-- vector, rotation, quaternion, matrix operations
+- angle, vector, rotation, quaternion, matrix operations
 - variables
 - universial constants
 - fonctions
 - pratical interface : tab completion, helper, sessions, projects and history
 - plot interactive graph
+- etc
 
 General Usage
 =============
