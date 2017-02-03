@@ -1,0 +1,9 @@
+[package]
+name = "chacalc"
+version = "0.1.0"
+authors = ["Frédéric Bertolus <fred.bertolus@gmail.com>"]
+
+[dependencies]
+termios = "0.2.2"
+rustyline = "1.0.0"
+
